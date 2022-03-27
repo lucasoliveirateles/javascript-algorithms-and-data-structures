@@ -15,3 +15,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 3. [Storing values with the assignment operator](3-storing-values-with-the-assignment-operator/question.md)
 4. [Assigning the value of one variable to another](4-assigning-the-value-of-one-variable-to-another//question.md)
 5. [Initializing variables with the assignment operator](5-initializing-variables-with-the-assignment-operator//question.md)
+6. [Declare string variables](6-declare-string-variables/question.md)
