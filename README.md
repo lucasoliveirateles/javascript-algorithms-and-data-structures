@@ -10,4 +10,5 @@ Once you have the fundamentals down, you'll apply that knowledge by creating alg
 
 Along the way, you'll also learn two important programming styles or paradigms: Object Oriented Programming (OOP) and Functional Programming (FP).
 
-1 - [Comment your JavaScript code](1-comment-your-javascript-code/question.md)
+1. [Comment your JavaScript code](1-comment-your-javascript-code/question.md)
+2. [Declare JavaScript Variables](2-declare-javascript-variables/question.md)
