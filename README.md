@@ -12,3 +12,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 
 1. [Comment your JavaScript code](1-comment-your-javascript-code/question.md)
 2. [Declare JavaScript Variables](2-declare-javascript-variables/question.md)
+2. [Storing values with the assignment operator](3-storing-values-with-the-assignment-operator/question.md)
