@@ -17,3 +17,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 5. [Initializing variables with the assignment operator](5-initializing-variables-with-the-assignment-operator//question.md)
 6. [Declare string variables](6-declare-string-variables/question.md)
 7. [Understanding uninitialized variables](7-understanding-uninitialized-variables/question.md)
+8. [Understanding case sensitivity in variables](8-understanding-case-sensitivity-in-variables/question.md)
