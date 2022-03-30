@@ -21,3 +21,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 9. [Explore differences between the var and let keywords](9-explore-differences-between-the-var-and-let-keywords//question.md)
 10. [Declare a read only variable with the const keyword](10-declare-a-read-only-variable-with-the-const-keyword/question.md)
 11. [Add two numbers with JavaScript](11-add-two-numbers-with-javascript/question.md)
+12. [Subtract one number from another with JavaScript](12-subtract-one-number-from-another-with-javascript/question.md)
