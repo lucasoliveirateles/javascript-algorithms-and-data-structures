@@ -33,3 +33,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 21. [Compound assignment with augmented addition](21-compound-assignment-with-augmented-addition/question.md)
 22. [Compound assignment with augmented subtraction](22-compound-assignment-with-augmented-subtraction/question.md)
 23. [Compound assignment with augmented multiplication](23-compound-assignment-with-augmented-multiplication/question.md)
+24. [Compound assignment with augmented division](24-compound-assignment-with-augmented-division/question.md)
