@@ -23,3 +23,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 11. [Add two numbers with JavaScript](11-add-two-numbers-with-javascript/question.md)
 12. [Subtract one number from another with JavaScript](12-subtract-one-number-from-another-with-javascript/question.md)
 13. [Multiply two numbers with JavaScript](13-multiply-two-numbers-with-javascript/question.md)
+14. [Divide one number by another with JavaScript](14-divide-one-number-by-another-with-javascript/question.md)
