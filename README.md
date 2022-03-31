@@ -27,3 +27,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 15. [Increment a number with JavaScript](15-Increment-a-number-with-javascript/question.md)
 16. [Decrement a number with JavaScript](16-decrement-a-number-with-javascript/question.md)
 17. [Create a decimal numbers with JavaScript](17-create-decimal-numbers-with-javascript/question.md)
+17. [Multiply two decimals with JavaScript](18-multiply-two-decimals-with-javascript/question.md)
