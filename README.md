@@ -29,3 +29,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 17. [Create a decimal numbers with JavaScript](17-create-decimal-numbers-with-javascript/question.md)
 18. [Multiply two decimals with JavaScript](18-multiply-two-decimals-with-javascript/question.md)
 19. [Divide one decimal by another with JavaScript](19-divide-one-decimal-by-another-with-javascript/question.md)
+20. [Finding a remainder in JavaScript](20-finding-a-remainder-in-javascript/question.md)
