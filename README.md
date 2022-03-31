@@ -31,3 +31,4 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 19. [Divide one decimal by another with JavaScript](19-divide-one-decimal-by-another-with-javascript/question.md)
 20. [Finding a remainder in JavaScript](20-finding-a-remainder-in-javascript/question.md)
 21. [Compound assignment with augmented addition](21-compound-assignment-with-augmented-addition/question.md)
+22. [Compound assignment with augmented subtraction](22-compound-assignment-with-augmented-subtraction/question.md)
